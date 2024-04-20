@@ -3,9 +3,81 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+
+    <meta name="description" content="Uma landing page exemplo para o Portifólio">
+    <title>Bem vindo - A Landing Page do portifólio</title>
+
+
+    <link rel="stylesheet" href="./src/css/reset.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 </head>
 <body>
+    <header class="cabecalho">
+        <a href="#" target="_blank" class="logo">
+            <img src="./src/images/cafe.gif" alt="imagem logo" class="imagem">
+            <span class="title">Landing Page do portifólio</span>
+        </a>
+
+        <nav>
+            <ul class="menu">
+                <li class="item">
+                    <a href="#projetos">Projetos</a>
+                </li>
+                <li class="item">
+                    <a href="#Quem-somos">Quem somos</a>
+                </li><li class="item">
+                    <a href="#Contato">Contato</a>
+                </li>
+            </ul>
+        </nav>
+
+    </header>
+
+    <main class="main-content" id="projetos">
+        <section class="panels">
+            <h1 class="title">Nossos Projetos</h1>
+
+            <div class="img-panel project1 show"></div>
+            <div class="img-panel project2"></div>
+            <div class="img-panel project3"></div>
+        </section>
+
+        <section class="quem-somos" id="quem-somos">
+            <div class="content">
+                <div class="info">
+                    <h2 class="title">Quem somos</h2>
+
+                    <p class="text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique eum, dicta rem error, eaque ad quo nesciunt facilis temporibus magnam laboriosam excepturi, asperiores labore! Soluta quam facilis sint totam officia!</p>
+                </div>
+
+                <img src="./src/images/composition-12.svg" alt="personagem com celular na mão" class="img">
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer" id="contato">
+        <nav>
+            <a href="#" target="_blank" class="logo">
+                <img src="./src/images/cafe.gif" alt="imagem logo" class="imagem">
+                <span class="title">Landing Page do portifólio</span>
+            </a>
+
+            <div class="social-network">
+                <a href="#" class="social" target="_blank">
+                    <i class="fab fa-instagram"></i>
+                </a>
+                <a href="#" class="social" target="_blank">
+                    <i class="fab fa-linkedin"></i>
+                </a>
+                <a href="#" class="social" target="_blank">
+                    <i class="fab fa-github"></i>
+                </a>
+            </div>
+        </nav>
+
+        <p class="copyright">Todos direitos reservados</p>
+    </footer>
     
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"></script>
 </body>
 </html>
