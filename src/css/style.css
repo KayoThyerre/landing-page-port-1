@@ -98,6 +98,9 @@
     position: absolute;
     z-index: -1;
     filter: brightness(80%);
+
+    opacity: 0;
+    transition: 0.3s ease-in-out;
 }
 
 .main-content .panels .project1 {
@@ -110,6 +113,10 @@
 
 .main-content .panels .project1 {
     background-image: url('../images/painel3.jpg');
+}
+
+.main-content .panels .img-panel.show {
+    opacity: 1;
 }
 
 .main-content .panels .arrow {
