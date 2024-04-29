@@ -103,15 +103,15 @@
     transition: 0.3s ease-in-out;
 }
 
-.main-content .panels .project1 {
+.main-content .panels .img-panel.project1 {
     background-image: url('../images/painel1.jpg');
 }
 
-.main-content .panels .project1 {
+.main-content .panels .img-panel.project2 {
     background-image: url('../images/painel2.jpg');
 }
 
-.main-content .panels .project1 {
+.main-content .panels .img-panel.project3 {
     background-image: url('../images/painel3.jpg');
 }
 
