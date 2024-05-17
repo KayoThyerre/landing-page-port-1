@@ -10,4 +10,21 @@
 
 Projeto feito para testar minhas habilidades em HTML CSS JAVASCRIPT.
 
-# Desafio
+# Link do GitHUB pages
+
+> [CLIQUE AQUI](https://kayothyerre.github.io/landing-page-port-1/#)
+
+# Modo de uso
+
+Este projeto não tem especificações de uso como outros sites que utilizamos o node version manager.
+
+# Visualize o layout do projeto
+
+> DESKTOP
+ 
+![DESKTOP](./src/img/desktop.gif)
+
+
+>MOBILE
+
+![DESKTOP](./src/img/mobile.gif)
