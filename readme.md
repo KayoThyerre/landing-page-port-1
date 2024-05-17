@@ -22,9 +22,9 @@ Este projeto não tem especificações de uso como outros sites que utilizamos o
 
 > DESKTOP
  
-![DESKTOP](./src/img/desktop.gif)
+![DESKTOP]([./src/img/desktop.gif](https://github.com/KayoThyerre/landing-page-port-1/blob/main/src/images/mobile.gif))
 
 
 >MOBILE
 
-![DESKTOP](./src/img/mobile.gif)
+![DESKTOP]([./src/img/mobile.gif](https://github.com/KayoThyerre/landing-page-port-1/blob/main/src/images/desktop.gif))
