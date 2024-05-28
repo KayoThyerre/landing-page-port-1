@@ -18,13 +18,4 @@ Projeto feito para testar minhas habilidades em HTML CSS JAVASCRIPT.
 
 Este projeto não tem especificações de uso como outros sites que utilizamos o node version manager.
 
-# Visualize o layout do projeto
 
-> DESKTOP
- 
-![DESKTOP]([./src/img/desktop.gif](https://github.com/KayoThyerre/landing-page-port-1/blob/main/src/images/mobile.gif))
-
-
->MOBILE
-
-![DESKTOP]([./src/img/mobile.gif](https://github.com/KayoThyerre/landing-page-port-1/blob/main/src/images/desktop.gif))
